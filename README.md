@@ -35,7 +35,7 @@ replica of my entire life. Password-protected; knock first.
 
 ### currently playing
 
-<a href="https://www.last.fm/user/parthasarathym"><img src="https://lastfm-recently-played.vercel.app/api?user=parthasarathym&count=3" alt="Recently played" width="440"></a>
+<a href="https://open.spotify.com/user/6q4s7e6rwhjlszyp0rlgeozuv"><img src="https://parthasarathym.com/api/np-card" alt="Now playing on Spotify" width="460"></a>
 
 ### find me
 
