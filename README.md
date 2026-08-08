@@ -27,7 +27,15 @@ stacks, OTA pipelines on TI C2000 and embedded Linux. The kind of code where
 ### languages & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,ts,java,matlab,react,html,css,linux,git,docker,cmake,raspberrypi&perline=8&theme=dark" alt="C, C++, Python, Bash, JavaScript, TypeScript, Java, MATLAB, React, HTML, CSS, Linux, Git, Docker, CMake, Raspberry Pi">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,ts,java,matlab,tensorflow,mysql,react,html,css,linux,git,docker,cmake,arduino,raspberrypi,vscode,ps,pr&perline=8&theme=dark" alt="C, C++, Python, Bash, JavaScript, TypeScript, Java, MATLAB, TensorFlow, MySQL, React, HTML, CSS, Linux, Git, Docker, CMake, Arduino, Raspberry Pi, VS Code, Photoshop, Premiere Pro">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/TI%20Code%20Composer%20Studio-CC0000?style=for-the-badge" alt="TI Code Composer Studio">
+  <img src="https://img.shields.io/badge/TI%20C2000-990000?style=for-the-badge" alt="TI C2000">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
+  <img src="https://img.shields.io/badge/CAN--FD-2a2a2e?style=for-the-badge" alt="CAN-FD">
 </p>
 
 ### by whatever's left
