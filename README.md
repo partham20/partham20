@@ -33,6 +33,10 @@ one long attempt to answer *why do I do what I do?* out loud.
 All of it lives at **[parthasarathym.com](https://parthasarathym.com)** — a digital
 replica of my entire life. Password-protected; knock first.
 
+### the podcast
+
+<a href="https://open.spotify.com/show/0lUJhwd4aBgPJ5DWFyTCu4"><img src="https://parthasarathym.com/api/podcast-card" alt="My Inner Monologue — the podcast" width="460"></a>
+
 ### currently playing
 
 <a href="https://open.spotify.com/user/6q4s7e6rwhjlszyp0rlgeozuv"><img src="https://parthasarathym.com/api/np-card" alt="Now playing on Spotify" width="460"></a>
