@@ -24,6 +24,24 @@ I write firmware that has to survive a power cut mid-update — bootloaders, CAN
 stacks, OTA pipelines on TI C2000 and embedded Linux. The kind of code where
 "it mostly works" is the same as "it doesn't."
 
+### languages
+
+```c
+static const lang_t languages[] = {
+/*    name              honest fluency note                                  */
+    { "C",           "home. ISRs, linker scripts, the whole basement"        },
+    { "C2000 asm",   "for when the compiler and I disagree"                  },
+    { "C++",         "enough to be dangerous, not enough to be smug"         },
+    { "Python",      "every tool I've ever built for myself"                 },
+    { "Bash",        "embedded Linux survival dialect"                       },
+    { "JavaScript",  "parthasarathym.com runs on it — vanilla, no framework" },
+    { "TypeScript",  "one React project; state machines are state machines"  },
+    { "MATLAB",      "college muscle memory"                                 },
+    { "Java",        "we've met"                                             },
+    { "SQL",         "SELECT only what I need"                               },
+};  /* fluency = confidence * recency; both decay. see: motto below */
+```
+
 ### by whatever's left
 
 Three books, a poetry collection, letters I probably shouldn't have published,
