@@ -27,7 +27,7 @@ stacks, OTA pipelines on TI C2000 and embedded Linux. The kind of code where
 ### languages & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,js,ts,java,matlab,tensorflow,mysql,react,html,css,linux,git,docker,cmake,arduino,raspberrypi,vscode,ps,pr&perline=8&theme=dark" alt="C, C++, Rust, Python, Bash, JavaScript, TypeScript, Java, MATLAB, TensorFlow, MySQL, React, HTML, CSS, Linux, Git, Docker, CMake, Arduino, Raspberry Pi, VS Code, Photoshop, Premiere Pro">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,rust,python,bash,js,ts,java,matlab,tensorflow,mysql,react,html,css,linux,git,docker,cmake,arduino,raspberrypi,vscode,ps,pr,obs&perline=8&theme=dark" alt="C, C++, Rust, Python, Bash, JavaScript, TypeScript, Java, MATLAB, TensorFlow, MySQL, React, HTML, CSS, Linux, Git, Docker, CMake, Arduino, Raspberry Pi, VS Code, Photoshop, Premiere Pro, OBS Studio">
 </p>
 
 ### by whatever's left
